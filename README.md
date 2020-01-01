@@ -23,3 +23,7 @@ The author prefers the simplicity of a single file script that you can just down
 Why is this a single file rather than a nice package?
 
 The author prefers the simplicity of a single file script that you can just download.
+
+This doesn't work for me.  Has it been tested?
+
+Sorry it doesn't work for you.  It has been tested by the author, but only with a few databases and only using PostgreSQL 9.4.  Create an issue if you'd like.  Better, fix the script and submit a patch request.
